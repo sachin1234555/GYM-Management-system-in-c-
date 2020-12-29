@@ -13,7 +13,7 @@ using namespace std;
 	cout<<"\n\n\n\n\n\n\n\n\n\n\t\t\t************************************************************************\n";
 	cout<<"\t\t\t\t\t\tHEALTH CLUB";
 	cout<<"\n\t\t\t***********************************************************************\n";
-	cout<<"\n\n\nDeveloped by Jerin Sebastian";
+	cout<<"\n\n\nDeveloped by Sachin Kumar";
 	cout<<"\n\n\nPress Any Key to continue..";
 	getch();
 	
